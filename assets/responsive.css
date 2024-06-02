@@ -6,7 +6,10 @@
         display: none;
         color: var(--siteBgColor);
     }
-    .nav-menu a {
-        width: 56px;
+    #hero {
+        padding-left: 160px;
+    }
+    #main {
+        margin-left: 100px;
     }
 }
