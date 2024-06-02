@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+    .nav-menu a {
+        width: 56px;
+    }
+    .nav-menu a span {
+        display: none;
+        color: var(--siteBgColor);
+    }
+    .nav-menu a {
+        width: 56px;
+    }
+}
